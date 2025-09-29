@@ -29,7 +29,7 @@
 
 **Software Engineer**  
 _Addis Ababa Institute of Technology_  
-Graduated with a comprehensive degree in Software Engineering, developing a solid foundation in software engineering principles and practices. Passionate about problem-solving and enjoy teaching and sharing knowledge with others.  
+Graduated with a comprehensive degree in Software Engineering, developing a solid foundation in software engineering principles and practices. Passionate about real world problem-solving and enjoy sharing knowledge with others.  
 _12/2019 – 06/2024, Addis Ababa, Ethiopia_
 
 ---
@@ -37,7 +37,7 @@ _12/2019 – 06/2024, Addis Ababa, Ethiopia_
 ## 💼 Professional Experience
 
 **Software Engineer - Lela Technologies**  
-_06/2024 – 07/2025, Addis Ababa, Ethiopia_
+_07/2024 – 08/2025, Addis Ababa, Ethiopia_
 
 - Frontend web developer using Next.js, Redux Toolkit, tailwindcss.
 - Collaborated on diverse client initiatives, delivering scalable digital solutions and enhancing user engagement.
@@ -56,7 +56,7 @@ _08/2024 – 10/2024_
 
 ### KeneanGarment - Web Developer
 
-_04/2025 – 09/2025_
+_05/2025 – 08/2025_
 
 - Designed and developed a responsive Next.js website with Tailwind CSS to showcase the factory’s profile and services.
 - Ensured timely access to quality medical services thStructured content sections highlighting company background, product offerings, and industry expertise with a clean, professional UI.
@@ -64,16 +64,7 @@ _04/2025 – 09/2025_
 
 ---
 
-## 🏆 Awards
-
-**850+ Problems Solved on Leetcode and Codeforces**
-
-- Mastered algorithmic thinking through the successful resolution of over 850 problems on Leetcode and Codeforces platforms.  
-  _04/2024_
-
----
-
-## 🏅 Leadership and Extracurricular Activities
+## Extracurricular Activities
 
 **Community Mentor**  
 _12/2022 – 12/2023, Addis Ababa, Ethiopia_
@@ -106,5 +97,3 @@ _12/2022 – 12/2023, Addis Ababa, Ethiopia_
 - [LelaTech](https://www.lelatechnologies.com/)
 - [KeneanGarment](https://kenean-garment-1svl-7e3uh2u0o.vercel.app/)
 - [cyber-quest](https://cyber-quest-client.vercel.app/aware_labs)
-
-# BetelTagesse
