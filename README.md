@@ -73,7 +73,7 @@ _12/2022 – 12/2023, Addis Ababa, Ethiopia_
 
 ---
 
-- 📄 Know about my experiences (https://mail.google.com/mail/u/0/popout?ver=udf1d2k3v1q#attid%253Datt_1999ae83edc07c1f_0.1_f_mg6mdx3c0)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1LlPoxr1tEukb79ljrmSsHWzt_4KltiD_/view?usp=drive_link)
 
 - ⚡ Fun fact **:)**
 
